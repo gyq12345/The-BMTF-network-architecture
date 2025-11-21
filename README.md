@@ -1,1 +1,1 @@
-# double-channel
+# The BMTF network architecture
